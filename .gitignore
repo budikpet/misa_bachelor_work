@@ -1,0 +1,7 @@
+.DS_Store
+**influxdb/database_files
+**grafana/grafana_data
+/telegraf/nodemcu/sensor_values.html
+/telegraf/nodemcu/telegraf
+**/venv
+/telegraf/nodemcu/telegraf_docker_my.conf
